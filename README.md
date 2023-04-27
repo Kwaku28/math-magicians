@@ -51,6 +51,8 @@ This is a react app for fans of mathematics.
 
 - **[create react app]**
 - **[set up linters]**
+- **[Components]**
+- **[Events]**
 <!-- - **[Components]**
 - **[Events]**
 - **[Refactor with hooks]**
@@ -73,6 +75,27 @@ This is a react app for fans of mathematics.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+sudo apt install git-all
+or
+npm install
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/Kwaku28/math-magicians.git
+```
 
 # Available Scripts
 
@@ -130,8 +153,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Tests]**
-- [ ] **[Components]**
-- [ ] **[Events]**
 - [ ] **[Refactor with hooks]**
 - [ ] **[Route with React Route]**
 - [ ] **[Styling]**
