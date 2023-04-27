@@ -74,6 +74,27 @@ This is a react app for fans of mathematics.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+sudo apt install git-all
+or
+npm install
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/Kwaku28/math-magicians.git
+```
+
 # Available Scripts
 
 In the project directory, you can run:
