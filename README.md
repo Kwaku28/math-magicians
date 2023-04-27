@@ -51,6 +51,8 @@ This is a react app for fans of mathematics.
 
 - **[create react app]**
 - **[set up linters]**
+- **[Components]**
+- **[Events]**
 <!-- - **[Components]**
 - **[Events]**
 - **[Refactor with hooks]**
@@ -151,8 +153,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Tests]**
-- [ ] **[Components]**
-- [ ] **[Events]**
 - [ ] **[Refactor with hooks]**
 - [ ] **[Route with React Route]**
 - [ ] **[Styling]**
