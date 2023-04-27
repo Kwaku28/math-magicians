@@ -53,12 +53,13 @@ This is a react app for fans of mathematics.
 - **[set up linters]**
 - **[Components]**
 - **[Events]**
+- **[Refactor with hooks]**
+- **[Route with React Route]**
 <!-- - **[Components]**
 - **[Events]**
 - **[Refactor with hooks]**
 - **[Route with React Route]**
-- **[Styling]**
-- **[Full website]** -->
+- **[Styling]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,9 +154,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Tests]**
-- [ ] **[Refactor with hooks]**
-- [ ] **[Route with React Route]**
 - [ ] **[Styling]**
+- [ ] **[Full website]**
 
 <!-- CONTRIBUTING -->
 
