@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import styles from '../Styles/quotes.module.css';
 
 function DisplayQuote() {
   const [myQuote, setMyQuote] = useState('');
@@ -28,15 +29,15 @@ function DisplayQuote() {
   }, []);
 
   if (quoteLoading) {
-    return <div className="quotes">Loading...</div>;
+    return <div className={styles.quotes}>Loading...</div>;
   }
 
   if (quoteError !== null) {
-    return <div className="quotes">{quoteError}</div>;
+    return <div className={styles.quotes}>{quoteError}</div>;
   }
 
   return (
-    <div className="quotes">{myQuote}</div>
+    <div className={styles.quotes}>{myQuote}</div>
   );
 }
 
