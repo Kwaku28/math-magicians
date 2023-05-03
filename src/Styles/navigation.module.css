@@ -1,0 +1,26 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+  align-items: center;
+  background-color: darkgrey;
+  padding-left: 24px;
+}
+
+.navigation h1 {
+  font-size: 38px;
+}
+
+.navLinks {
+  display: flex;
+  gap: 10px;
+}
+
+.navLinks li {
+  list-style: none;
+  font-size: 22px;
+}
+
+.active {
+  color: red;
+}
