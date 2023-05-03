@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 60px;
+}
+
+.model {
+  width: 35%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.result {
+  text-align: right;
+  background: #adadad;
+  padding-right: 2px;
+  padding-top: 10px;
+  border: #fff 1px solid;
+  height: 40px;
+  font-size: 25px;
+}
+
+.btn,
+.operation,
+.zero {
+  color: #000;
+  height: 40px;
+  border: #fff 1px solid;
+  font-size: 20px;
+}
+
+.btn {
+  background: #ccc;
+  width: 25%;
+}
+
+.operation {
+  width: 25%;
+  background: #ff8850;
+}
+
+.zero {
+  width: 50%;
+  background: #ccc;
+}
