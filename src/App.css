@@ -1,58 +1,7 @@
-.App {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100vh;
-  align-items: center;
-  gap: 20px;
+body {
+  background: #eee;
 }
 
-.quotes {
-  font-size: 18px;
-  width: 25%;
-  text-align: center;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  width: 25%;
-}
-
-h1 {
-  text-align: center;
-}
-
-.result {
-  text-align: right;
-  background: #adadad;
-  padding-right: 2px;
-  padding-top: 10px;
-  border: #fff 1px solid;
-  height: 40px;
-  font-size: 25px;
-}
-
-.btn-normal,
-.btn-special,
-.btn-double {
-  color: #000;
-  height: 40px;
-  border: #fff 1px solid;
-  font-size: 20px;
-}
-
-.btn-normal {
-  background: #ccc;
-  width: 25%;
-}
-
-.btn-special {
-  width: 25%;
-  background: #ff8850;
-}
-
-.btn-double {
-  width: 50%;
-  background: #ccc;
+.active {
+  color: red;
 }
