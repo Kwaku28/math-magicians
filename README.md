@@ -67,7 +67,7 @@ This is a react app for fans of mathematics.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Not Available](https://...)
+- [Math Magician](https://calculator-b0zu.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
